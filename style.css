@@ -1,0 +1,12 @@
+.layer:not(h1){
+border-radius: 50%;
+border: 5px solid #003;
+    margin: auto;
+}
+body{
+margin: 0;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+}
